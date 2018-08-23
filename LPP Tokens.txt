@@ -7,7 +7,6 @@ Fin
 Entero
 Caracter
 Booleano
-Nueva_linea
 mod
 div
 y
